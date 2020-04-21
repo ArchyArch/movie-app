@@ -58,7 +58,4 @@ Status
 Project is: in progress. We work to implement new features to make To-Do-App even more useful to you!
 Inspiration
 
-Project inspired by our mentor Jakub Andrzejewski
-Contact
-
 Feel free to contact all of the contributors!
