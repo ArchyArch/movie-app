@@ -12,7 +12,7 @@
         "body-parser": "^1.18.3",
         "config": "^3.1.0",
         "csstype": "^2.6.4",
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "joi": "^14.3.1",
         "materialize-css": "^1.0.0",
         "mongoose": "^5.5.7",
